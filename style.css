@@ -1,0 +1,52 @@
+
+    body {
+    font-family: Arial, sans-serif;
+    background: color #f8faf8;
+    margin: 0;
+    padding: 30px;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.form-box {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+input {
+    padding: 10px;
+    flex: 1;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #0e0a0a;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #dadadada;
+}
+}
